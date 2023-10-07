@@ -1,0 +1,7 @@
+.main{
+    background-image: url('../../src/assets/BG/bg.png') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}

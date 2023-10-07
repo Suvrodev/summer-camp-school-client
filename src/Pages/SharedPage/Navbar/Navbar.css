@@ -1,0 +1,25 @@
+.mav_bg{
+    font-weight: 700;
+    color: white;
+    border-radius: 25px;
+    margin-top: 10px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+    
+}
+
+.myTytle_bg{
+    background-color: #FAD961;
+    background-image: linear-gradient(90deg, #FAD961 0%, #F76B1C 100%);
+    color: white;
+}
+.titleDash{
+    background-color: #74EBD5;
+    background-image: linear-gradient(90deg, #49756d 0%, #9FACE6 100%);
+    color: white;
+}
+.webTitle{
+    background: linear-gradient(to right, rgb(255, 152, 6), #e13ee1);
+    background-clip: text;
+    color: transparent;
+}

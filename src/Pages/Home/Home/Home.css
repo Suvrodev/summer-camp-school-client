@@ -1,0 +1,15 @@
+:root{
+    ---textColor: black;
+    ---backgroundColor: white
+}
+[data-theme='dark']{
+    ---textColor: white;
+    ---backgroundColor: black
+}
+
+.rqStype{
+    margin-top: 20px;
+    padding: 25px;
+    background-color: var(---backgroundColor);
+    color: var(---textColor);
+}

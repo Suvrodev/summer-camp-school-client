@@ -1,0 +1,8 @@
+.bgChart{
+    background-color: #00DBDE;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #b54cb7 100%);
+    font-weight: 700;
+    color: white;
+    border-radius: 25px;
+    
+}
